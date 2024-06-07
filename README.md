@@ -1,10 +1,8 @@
 ### Hi there 👋, I'm Gaston!
 
-![](https://komarev.com/ghpvc/?username=your_username&color=give_your_color)
+🌱 I’m currently learning VueJS.
 
-🌱 I’m currently learning Angular and SpringBoot.
-
-🤔 I’m looking for help with Google Firebase.
+🤔 I’m looking for help with Google Cloud.
 
 📫 How to reach me: gaston.rodriguez@icloud.com
 
@@ -16,7 +14,6 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
