@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Gaston!
 
-🌱 I’m currently learning Vue with Vite and Vuetify.
+🌱 I’m currently learning Flutter and Dart.
 
 🤔 I’m looking for help with Google Cloud.
 
