@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Gaston!
 
-🌱 I’m currently learning Flutter and Dart.
+🌱 I’m currently learning React Native.
 
 🤔 I’m looking for help with Google Cloud.
 
