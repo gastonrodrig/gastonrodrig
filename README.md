@@ -26,3 +26,5 @@
   <img alt="Expo" src="https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
 </p>
+
+[![](https://visitcount.itsvg.in/api?id=gastonrodrig&icon=4&color=6&pretty=true)](https://visitcount.itsvg.in)
