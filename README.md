@@ -26,5 +26,17 @@
   <img alt="Expo" src="https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
 </p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+📊 My Stats:
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gastonrodrig04&theme=whatsapp-dark&border_radius=6&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+</p>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 [![](https://visitcount.itsvg.in/api?id=gastonrodrig&icon=4&color=6&pretty=true)](https://visitcount.itsvg.in)
