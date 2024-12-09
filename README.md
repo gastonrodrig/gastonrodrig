@@ -2,7 +2,7 @@
 
 🏫 I'm studying at Ricardo Palma University.
 
-🌱 I’m currently learning Spring Boot.
+🌱 I’m currently learning Spring Boot and Quasar.
 
 🤔 I’m looking for help with Quasar Framework.
 
