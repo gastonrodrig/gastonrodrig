@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Gaston! 
 
-🏫 I'm studying at Ricardo Palma University.
+🏫 I'm studying at Ricardo Palma University (4th year).
 
 🌱 I’m currently learning Spring Boot and Quasar.
 
