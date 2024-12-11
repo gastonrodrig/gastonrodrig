@@ -30,6 +30,7 @@
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="Expo" src="https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img alt="Quasar Framework" src="https://img.shields.io/badge/-Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white" />
 </p>
 
 <div align="center">
