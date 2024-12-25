@@ -2,7 +2,7 @@
 
 🏫 I'm studying at Ricardo Palma University (4th year).
 
-🌱 I’m currently learning Spring Boot and Quasar.
+🌱 I’m currently learning SwiftUI.
 
 🤔 I’m looking for help with Quasar Framework.
 
@@ -31,6 +31,8 @@
   <img alt="Expo" src="https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img alt="Quasar Framework" src="https://img.shields.io/badge/-Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white" />
+  <img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-FA7343?style=flat-square&logo=swift&logoColor=white" />
+  <img alt="Swift" src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
 </p>
 
 <div align="center">
