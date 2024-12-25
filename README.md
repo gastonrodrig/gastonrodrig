@@ -6,6 +6,8 @@
 
 🤔 I’m looking for help with Quasar Framework.
 
+😇 Ask me about Firebase or Supabase Services.
+
 📫 How to reach me: gaston.rodriguez0410@gmail.com
 
 <div align="center">
