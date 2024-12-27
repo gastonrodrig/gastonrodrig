@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Gaston :)
+### Hi there 👋, I'm Gaston :) 
 
 🏫 I'm studying at Ricardo Palma University (4th year).
 
