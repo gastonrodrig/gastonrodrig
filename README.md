@@ -35,6 +35,8 @@
   <img alt="Quasar Framework" src="https://img.shields.io/badge/-Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white" />
   <img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-FA7343?style=flat-square&logo=swift&logoColor=white" />
   <img alt="Swift" src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
+  <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
 </p>
 
 <div align="center">
