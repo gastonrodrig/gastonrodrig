@@ -2,7 +2,7 @@
 
 🏫 I'm studying at Ricardo Palma University (4th year).  
 
-🌱 I’m currently learning SwiftUI.
+🌱 I’m currently learning SwiftUI. 
 
 🤔 I’m looking for help with Quasar Framework.
 
