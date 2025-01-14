@@ -45,11 +45,6 @@
 
 <br>
 📊 My Stats:
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=gastonrodrig&hide_border=true&border_radius=4.2&background=0D1116&sideLabels=73C7FF&currStreakNum=73C7FF&ring=2CEBD2&fire=2CEBD2&currStreakLabel=73C7FF&dates=4B82A6&sideNums=73C7FF&stroke=2CEBD2" alt="GitHub Streak" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
