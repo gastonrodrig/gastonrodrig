@@ -2,13 +2,13 @@
 
 🏫 I'm studying at Ricardo Palma University (4th year).
  
-🌱 I’m currently learning SwiftUI.
+🥸 I’m currently learning SwiftUI.
 
-🤔 I’m looking for help with Quasar Framework.
+😇 I’m looking for help with Quasar Framework.
 
-😇 Ask me about Firebase, Supabase Services and Expo.
+🤓 Ask me about Firebase, Supabase Services and Expo.
 
-📫 How to reach me: gaston.rodriguez0410@gmail.com
+🧍🏻‍♂️ How to reach me: gaston.rodriguez0410@gmail.com
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
