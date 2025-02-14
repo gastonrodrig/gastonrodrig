@@ -2,9 +2,7 @@
   
 🏫 I'm studying at Ricardo Palma University (4th year).
  
-🥸 I’m currently learning MaterialUI, and React with Redux. 
-
-😇 I’m looking for help with Quasar Framework.
+🥸 I’m currently learning SwiftUI.
 
 🤓 Ask me about Firebase, Supabase Services and Expo Framework.
 
