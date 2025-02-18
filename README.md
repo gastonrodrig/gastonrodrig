@@ -2,7 +2,7 @@
   
 🏫 I'm studying at Ricardo Palma University (4th year). 
  
-🥸 I’m currently learning SwiftUI.
+🥸 I’m currently learning React, Redux and MaterialUI.
 
 🤓 Ask me about Firebase, Supabase Services and Expo Framework.
 
