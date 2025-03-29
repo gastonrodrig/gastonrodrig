@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Gaston :)    
   
-🏫 I'm studying at Ricardo Palma University (4th year). 
+🏫 I'm studying at Ricardo Palma University (5th year). 
  
-🥸 I’m currently learning React, Redux and MaterialUI.
+🥸 I’m currently learning Docker.
 
 🤓 Ask me about Firebase, Supabase Services and Expo Framework.
 
