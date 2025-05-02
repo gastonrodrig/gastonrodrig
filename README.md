@@ -2,7 +2,7 @@
   
 🏫 I'm studying at Ricardo Palma University (5th year). 
  
-🥸 I’m currently learning Docker.
+🥸 I’m currently learning Kubernetes.
 
 🤓 Ask me about Firebase, Supabase Services and Expo Framework.
 
