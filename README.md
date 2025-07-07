@@ -30,6 +30,7 @@ How to reach me
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
   <img alt="Expo" src="https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-FA7343?style=flat-square&logo=swift&logoColor=white" />
@@ -39,6 +40,8 @@ How to reach me
   <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
   <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
   <img alt="Google Cloud" src="https://img.shields.io/badge/-Google Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/-VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img alt="Cursor" src="https://img.shields.io/badge/-Cursor-333333?style=flat-square&logo=cursor&logoColor=white" />
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
