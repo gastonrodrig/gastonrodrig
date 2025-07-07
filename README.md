@@ -2,11 +2,12 @@
   
 🏫 I'm studying at Ricardo Palma University (5th year). 
  
-🥸 I’m currently learning Kubernetes.
+😸 I’m currently learning Cloud Run Services.
 
 🤓 Ask me about Firebase, Supabase Services and Expo Framework.
 
-🧍🏻‍♂️ How to reach me: gaston.rodriguez0410@gmail.com
+How to reach me
+✉️: gaston.rodriguez0410@gmail.com
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
@@ -36,6 +37,12 @@
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img alt="Cursor" src="https://img.shields.io/badge/-Cursor-333333?style=flat-square&logo=cursor&logoColor=white" />
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
+  <img alt="Xcode" src="https://img.shields.io/badge/-Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white" />
+  <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
 </p>
 
 <div align="center">
