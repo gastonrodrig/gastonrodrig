@@ -1,10 +1,16 @@
-### Hi there 👋, I'm Gaston :)    
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+
+### Hi there 👋, I'm Gaston :)
   
 🏫 I'm studying at Ricardo Palma University (Final year). 
  
 😸 I’m currently learning Cloud Run Services.
 
 🤓 Ask me about Firebase, Supabase Services and Expo Framework.
+
+🧑🏻‍💻 I firmly believe that everyone should learn to code, as it is an essential skill in today’s world.
 
 How to reach me
 <br />
@@ -64,3 +70,7 @@ How to reach me
     <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gastonrodrig&layout=compact&bg_color=0D1116&hide_border=true&title_color=73C7FF&text_color=ffffff&icon_color=73C7FF" />
   </a>
 </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
