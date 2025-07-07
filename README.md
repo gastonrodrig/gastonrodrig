@@ -7,6 +7,7 @@
 🤓 Ask me about Firebase, Supabase Services and Expo Framework.
 
 How to reach me
+<br />
 ✉️: gaston.rodriguez0410@gmail.com
 
 <div align="center">
