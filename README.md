@@ -38,6 +38,7 @@ How to reach me
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
   <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img alt="Google Cloud" src="https://img.shields.io/badge/-Google Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/-VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img alt="Cursor" src="https://img.shields.io/badge/-Cursor-333333?style=flat-square&logo=cursor&logoColor=white" />
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
