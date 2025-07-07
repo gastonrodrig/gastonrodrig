@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Gaston :)    
   
-🏫 I'm studying at Ricardo Palma University (5th year). 
+🏫 I'm studying at Ricardo Palma University (Final year). 
  
 😸 I’m currently learning Cloud Run Services.
 
