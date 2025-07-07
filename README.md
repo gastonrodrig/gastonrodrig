@@ -42,7 +42,6 @@ How to reach me
   <img alt="Cursor" src="https://img.shields.io/badge/-Cursor-333333?style=flat-square&logo=cursor&logoColor=white" />
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
   <img alt="Xcode" src="https://img.shields.io/badge/-Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white" />
-  <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
 </p>
 
 <div align="center">
