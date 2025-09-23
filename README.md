@@ -67,3 +67,6 @@ How to reach me
     <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gastonrodrig&layout=compact&bg_color=0D1116&hide_border=true&title_color=73C7FF&text_color=ffffff&icon_color=73C7FF" />
   </a>
 </p>
+
+[![committers.top badge](https://user-badge.committers.top/peru/gastonrodrig.svg)](https://user-badge.committers.top/peru/gastonrodrig)
+
