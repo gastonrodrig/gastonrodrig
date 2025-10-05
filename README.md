@@ -2,9 +2,7 @@
   
 🏫 I'm studying at Ricardo Palma University (Final year). 
  
-😸 I’m currently learning Cloud Run Services.
-
-🤓 Ask me about Firebase, Supabase Services and Expo Framework.
+😸 I’m currently learning UI Path.
 
 🧑🏻‍💻 I firmly believe that everyone should learn to code, as it is an essential skill in today’s world.
 
