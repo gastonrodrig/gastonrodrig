@@ -6,7 +6,8 @@
 
 🧑🏻‍💻 I firmly believe that everyone should learn to code, as it is an essential skill in today’s world.
 
-[![Portfolio](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://gaston-rodriguez.vercel.app/)
+### Check out my portfolio
+[**Look my portfolio**](https://gaston-rodriguez.vercel.app/)
 
 How to reach me
 <br />
