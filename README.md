@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Gaston :)
   
-🏫 I'm studying at Ricardo Palma University (Final year). 
+🏫 I graduated in Computer Engineering from Ricardo Palma University.
  
 😸 I’m currently learning Next.js
 
