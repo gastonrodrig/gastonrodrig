@@ -62,16 +62,6 @@ How to reach me
 </div>
 
 <br>
-📊 My Stats:
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="gastonrodrig's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=gastonrodrig&show_icons=true&bg_color=0D1116&hide_border=true&title_color=73C7FF&text_color=ffffff&icon_color=73C7FF" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gastonrodrig&layout=compact&bg_color=0D1116&hide_border=true&title_color=73C7FF&text_color=ffffff&icon_color=73C7FF" />
-  </a>
-</p>
 
 [![committers.top badge](https://user-badge.committers.top/peru/gastonrodrig.svg)](https://user-badge.committers.top/peru/gastonrodrig)
 
