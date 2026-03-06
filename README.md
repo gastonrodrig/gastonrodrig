@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Gaston :)
+
+💼 I’m currently working at SEIDOR as Consulting Trainee
   
 🏫 I graduated in Computer Engineering from Ricardo Palma University.
- 
-😸 I’m currently learning Next.js
 
 🧑🏻‍💻 I firmly believe that everyone should learn to code, as it is an essential skill in today’s world.
 
