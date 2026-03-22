@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Gaston :)
 
-💼 I’m currently working at SEIDOR as Consulting Trainee.
+💼 I’m currently working at SEIDOR.
   
 🏫 I graduated in Computer Engineering from Ricardo Palma University.
 
