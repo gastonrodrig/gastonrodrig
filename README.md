@@ -1,42 +1,47 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b2a41,50:324a5f,100:c6a96b&height=180&section=header&text=🪽✨&fontSize=38&fontColor=f5f5f5&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:4facfe&height=180&section=header&text=-(꒪▿꒪)-&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  🧑🏻‍💻 ⚙️ ☁️  
+  <b>Gaston Rodriguez</b>  
+  <br/>
+  <sub>SAP BTP Consultant • Full Stack Developer</sub>
 </p>
 
-<p align="center">
-  <i>Full Stack Developer • SAP BTP Consultant</i>
-</p>
+<br>
 
----
-
-### 🧑🏻‍💻 About Me
+🧑🏻‍💻 About Me <br>
+<sub>
 Computer Engineering graduate from **Universidad Ricardo Palma**, currently working at **SEIDOR** as a **SAP BTP Trainee / Consultant**.
+</sub>
 
-### 🎓 Education
-- Computer Engineering – Universidad Ricardo Palma
+🎓 Education <br>
+<sub>
+Computer Engineering – Universidad Ricardo Palma
+</sub>
 
-### 🚀 Interests & Focus
-- SAP BTP  
-- Cloud Development  
-- Web Development  
-- AI & Automation  
+🚀 Interests & Focus <br>
+<sub>
+SAP BTP, Cloud Development, Web Development, AI & Automation  
+</sub>
 
-I believe that **learning to code is an essential skill in today’s world**, as it empowers people to create, solve problems, and innovate.
+🌐 Portfolio <br>
+<sub>
+🔗 [View my portfolio](https://gaston-rodriguez.vercel.app/)
+</sub>
 
-### 🌐 Portfolio
-🔗 [Look my portfolio](https://gaston-rodriguez.vercel.app/)
+📫 Contact <br>
+<sub>
+✉️ gaston.rodriguez0410@gmail.com
+</sub>
 
-### 📫 Contact
-- ✉️ gaston.rodriguez0410@gmail.com
+<br>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div> 
 
-<h3>When I code, I rely on</h3>
+<h3>Tech Stack</h3>
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -83,4 +88,11 @@ I believe that **learning to code is an essential skill in today’s world**, as
 <br>
 
 [![committers.top badge](https://user-badge.committers.top/peru/gastonrodrig.svg)](https://user-badge.committers.top/peru/gastonrodrig)
+
+<p align="center">
+  <sub>
+    I believe that <b>learning to code is an essential skill in today’s world</b>, 
+    as it empowers people to create, solve problems, and innovate.
+  </sub>
+</p>
 
