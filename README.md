@@ -12,7 +12,7 @@
 
 🧑🏻‍💻 About Me <br>
 <sub>
-Computer Engineering graduate from **Universidad Ricardo Palma**, currently working at **SEIDOR** as a **SAP BTP Trainee / Consultant**.
+Computer Engineering graduate from **Universidad Ricardo Palma**, currently working at **SEIDOR** as a **SAP BTP Trainee Consultant**.
 </sub>
 
 🎓 Education <br>
@@ -35,13 +35,11 @@ SAP BTP, Cloud Development, Web Development, AI & Automation
 ✉️ gaston.rodriguez0410@gmail.com
 </sub>
 
-<br>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div> 
 
-<h3>Tech Stack</h3>
+🖥️ Tech Stack<br>
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -91,8 +89,8 @@ SAP BTP, Cloud Development, Web Development, AI & Automation
 
 <p align="center">
   <sub>
-    I believe that <b>learning to code is an essential skill in today’s world</b>, 
-    as it empowers people to create, solve problems, and innovate.
+    "I believe that <b>learning to code is an essential skill in today’s world</b>, 
+    as it empowers people to create, solve problems, and innovate."
   </sub>
 </p>
 
