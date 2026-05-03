@@ -1,17 +1,36 @@
-### Hi there 👋, I'm Gaston :)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b2a41,50:324a5f,100:c6a96b&height=180&section=header&text=Gaston&fontSize=38&fontColor=f5f5f5&animation=fadeIn" />
+</p>
 
-💼 I’m currently working at SEIDOR.
-  
-🏫 I graduated in Computer Engineering from Ricardo Palma University.
+<p align="center">
+  🧑🏻‍💻 ⚙️ ☁️  
+</p>
 
-🧑🏻‍💻 I firmly believe that everyone should learn to code, as it is an essential skill in today’s world.
+<p align="center">
+  <i>Full Stack • Development</i>
+</p>
 
-### Check out my portfolio
-[**Look my portfolio**](https://gaston-rodriguez.vercel.app/)
+---
 
-How to reach me
-<br />
-✉️: gaston.rodriguez0410@gmail.com
+### 🧑🏻‍💻 About Me
+Computer Engineering graduate from **Universidad Ricardo Palma**, currently working at **SEIDOR** as a **SAP BTP Trainee / Consultant**.
+
+### 🎓 Education
+- Computer Engineering – Universidad Ricardo Palma
+
+### 🚀 Interests & Focus
+- SAP BTP  
+- Cloud Development  
+- Web Development  
+- AI & Automation  
+
+I believe that **learning to code is an essential skill in today’s world**, as it empowers people to create, solve problems, and innovate.
+
+### 🌐 Portfolio
+🔗 [Look my portfolio](https://gaston-rodriguez.vercel.app/)
+
+### 📫 Contact
+- ✉️ gaston.rodriguez0410@gmail.com
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
