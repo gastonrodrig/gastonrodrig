@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <i>Full Stack • Development</i>
+  <i>Full Stack Developer • SAP BTP Consultant</i>
 </p>
 
 ---
